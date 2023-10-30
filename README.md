@@ -1,2 +1,2 @@
-# Fundamentos-F-sico-Matem-ticos
+# Fisica
 Ejercicios propuestos 
